@@ -1,0 +1,6 @@
+
+# AI video editor workspace (large files)
+ai-video-editor/tools/
+ai-video-editor/Raw Footage/*
+ai-video-editor/References/*
+ai-video-editor/Exports/*
